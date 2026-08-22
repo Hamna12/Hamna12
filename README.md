@@ -19,8 +19,8 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamna12.github.io-ff5fa2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0e1a)](https://hamna12.github.io/hamna-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamna_Qaseem-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0e1a)](https://www.linkedin.com/in/s-h-hamna-qaseem-3456bb1b8/)
-[![Instagram](https://img.shields.io/badge/@hamna.codes-Building_in_public-ff8fc7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0e1a)](https://www.instagram.com/hamna.codes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamna_Qaseem-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0e1a)](https://www.linkedin.com/in/hamna-qaseem/)
+[![Instagram](https://img.shields.io/badge/@hamna.codes-Building_in_public-ff8fc7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0e1a)](https://www.instagram.com/devdiary.hamna?igsi=MXA5aGRuOG0wMmg5Nw==)
 [![X](https://img.shields.io/badge/X-@hamna35966463-e9d8ee?style=for-the-badge&logo=x&logoColor=white&labelColor=0b0e1a)](https://twitter.com/hamna35966463)
 [![Email](https://img.shields.io/badge/Email-hamnaqaseem@gmail.com-f2cc60?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0e1a)](mailto:hamnaqaseem@gmail.com)
 
