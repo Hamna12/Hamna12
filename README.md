@@ -75,29 +75,6 @@ Simulation first, then hardware. That order has saved me a lot of time and money
 
 <br/>
 
-## `> contributions --graph`
-
-<div align="center">
-<img src="./contrib-heatmap.svg" width="840" alt="Hamna's GitHub contribution graph, refreshed daily" />
-</div>
-
-<br/>
-
-## `> github stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamna12&show_icons=true&hide_border=true&title_color=ff5fa2&icon_color=22d3ee&text_color=e9d8ee&bg_color=0b0e1a" alt="Hamna's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamna12&layout=compact&hide_border=true&title_color=ff5fa2&text_color=e9d8ee&bg_color=0b0e1a" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hamna12&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
-
-<br/>
-
 ## `> a note on how I work`
 
 I try to build things that are useful, not just impressive. A small tool that solves a real problem beats a flashy demo that goes nowhere.
