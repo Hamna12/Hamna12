@@ -1,43 +1,113 @@
-<h1 align="center">Hi 👋, I'm Hamna Qaseem</h1>
-<h3 align="center">A passionate Data Driven Scientist From Pakistan!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7ImI.gif")
+<!--
+  Profile README for github.com/Hamna12
+  Custom art is self-generated SVG (no plugins): hero.svg + wordmark.svg animate
+  via SMIL; contrib-heatmap.svg refreshes daily via the GitHub Action in
+  .github/workflows/update-profile-art.yml. Live stat cards below are themed to
+  match. Regenerate static art:
+    python scripts/make_hero_svg.py hero.svg
+    python scripts/make_wordmark_svg.py wordmark.svg
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamna12&label=Profile%20views&color=0e75b6&style=flat" alt="hamna12" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamna12" alt="hamna12" /></a> </p>
+<img src="./hero.svg" width="820" alt="Hamna Qaseem — dev console" />
 
-<p align="left"> <a href="https://twitter.com/hamna35966463" target="blank"><img src="https://img.shields.io/twitter/follow/hamna35966463?logo=twitter&style=for-the-badge" alt="hamna35966463" /></a> </p>
+<br/><br/>
 
-- 🔭 I’have done quite projects on [Data Science, Machine Learning](https://github.com/Hamna12/Linkediln-Views-Analysis.git)
+<img src="./wordmark.svg" width="560" alt="HAMNA — 3D ASCII wordmark" />
 
-- 🌱 I’m currently learning **Data Science Tools from "Coursera", Data Science Professional Certificate From "DataCamp"**
+<br/><br/>
 
-- 👯 I’m looking to collaborate on **Real World Dataset Projects**
+[![Portfolio](https://img.shields.io/badge/Portfolio-hamna12.github.io-ff5fa2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0e1a)](https://hamna12.github.io/hamna-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamna_Qaseem-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0e1a)](https://www.linkedin.com/in/s-h-hamna-qaseem-3456bb1b8/)
+[![Instagram](https://img.shields.io/badge/@hamna.codes-Building_in_public-ff8fc7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0e1a)](https://www.instagram.com/hamna.codes/)
+[![X](https://img.shields.io/badge/X-@hamna35966463-e9d8ee?style=for-the-badge&logo=x&logoColor=white&labelColor=0b0e1a)](https://twitter.com/hamna35966463)
+[![Email](https://img.shields.io/badge/Email-hamnaqaseem@gmail.com-f2cc60?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0e1a)](mailto:hamnaqaseem@gmail.com)
 
-- 🤝 I’m looking for help with **Energetic and Cooperative Team**
+<img src="https://komarev.com/ghpvc/?username=hamna12&label=Profile%20views&color=ff5fa2&style=flat" alt="profile views" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hamna12?tab=repositories](https://github.com/Hamna12?tab=repositories)
+</div>
 
-- 💬 Ask me about **Data Analysis, Visualization, Cleaning**
+<br/>
 
-- 📫 How to reach me **hamnaqaseem@gmail.com**
+## `> whoami`
 
-- ⚡ Fun fact **I love to play with Data and present it in Different forms.**
+I'm an AI engineer and researcher from Pakistan. I build AI systems, explore agents and robotics, and learn out loud.
 
-<h3 align="left">Connect with me:</h3>
+I care about AI that helps people think and decide better, not just generate answers. So confidence and knowing when a model is wrong matter to me a lot.
+
+I share the wins. I also share the parts that broke.
+
+<br/>
+
+## `> currently exploring`
+
+Right now my focus is on a few things:
+
+- **AI agents and multi-agent systems.** Getting models to plan, use tools, and work together instead of answering in one shot.
+- **Robotics learning.** I start in simulation with Webots before touching hardware, then bring lessons back to small ESP32 builds.
+- **RAG and LLM apps** with a real backend behind them, not just a demo.
+- **Data science and ML**, which is the foundation under all of it.
+
+Simulation first, then hardware. That order has saved me a lot of time and money.
+
+<br/>
+
+## `> tech stack`
+
 <p align="left">
-<a href="https://twitter.com/hamna35966463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamna35966463" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/s-h-hamna-qaseem-3456bb1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s-h-hamna-qaseem-3456bb1b8/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14641746/hamna-qaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14641746/hamna-qaseem" height="30" width="40" /></a>
-<a href="https://fb.com/hamnaqaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamnaqaseem" height="30" width="40" /></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="42" height="42"/></a>&nbsp;&nbsp;
+<a href="https://appwrite.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="42" height="42"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Also working with:**
+&nbsp;LLMs · RAG · AI agents · multi-agent systems · FastAPI · Streamlit · Webots · ROS2 · ESP32
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamna12&show_icons=true&locale=en&layout=compact" alt="hamna12" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamna12&show_icons=true&locale=en" alt="hamna12" /></p>
+## `> contributions --graph`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamna12&" alt="hamna12" /></p>
+<div align="center">
+<img src="./contrib-heatmap.svg" width="840" alt="Hamna's GitHub contribution graph, refreshed daily" />
+</div>
 
+<br/>
+
+## `> github stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamna12&show_icons=true&hide_border=true&title_color=ff5fa2&icon_color=22d3ee&text_color=e9d8ee&bg_color=0b0e1a" alt="Hamna's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamna12&layout=compact&hide_border=true&title_color=ff5fa2&text_color=e9d8ee&bg_color=0b0e1a" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hamna12&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
+</div>
+
+<br/>
+
+## `> a note on how I work`
+
+I try to build things that are useful, not just impressive. A small tool that solves a real problem beats a flashy demo that goes nowhere.
+
+I also think AI literacy is becoming as basic as computer literacy was twenty years ago. You don't have to be an engineer. But it helps to know how these systems work, where they fail, and how to use them well.
+
+If any of this overlaps with what you're working on, reach out. I like comparing notes.
+
+<br/>
+
+<div align="center">
+<sub><code>hamna@dev:~$</code> built with curiosity, and a little help from Bismillah 🤍</sub>
+</div>
